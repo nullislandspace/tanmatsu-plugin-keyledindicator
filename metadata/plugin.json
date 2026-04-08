@@ -1,9 +1,4 @@
 {
-    "name": "Key LED Indicator",
-    "slug": "at.cavac.key-led-indicator",
-    "version": "1.0.0",
-    "author": "Rene Schickbauer",
-    "description": "Blinks LED 5 white for 100ms on every keypress",
     "type": "service",
     "api_version": 1,
     "permissions": ["input", "led"],
