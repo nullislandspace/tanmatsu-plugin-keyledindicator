@@ -33,9 +33,9 @@ static int status_widget_callback(pax_buf_t* buffer, int x_right, int y, int hei
 // Plugin metadata
 static const plugin_info_t plugin_info = {
     .name = "Key LED Indicator",
-    .slug = "key-led-indicator",
+    .slug = "at.cavac.key-led-indicator",
     .version = "1.1.0",
-    .author = "Tanmatsu Test",
+    .author = "Rene Schickbauer",
     .description = "Blinks LED on keypress",
     .api_version = TANMATSU_PLUGIN_API_VERSION,
     .type = PLUGIN_TYPE_SERVICE,
